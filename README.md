@@ -1,8 +1,8 @@
 ## 안녕하세요!
-### 🤗 도라에몽처럼 만능이 되고픈 23살 개발자 도라리 (@dsa28s) 예요!
+### 🤗 도라에몽처럼 만능이 되고픈 24살 개발자 도라리 (@dsa28s) 예요!
 
-### 👨‍💻 저는 지금 [ABLY](https://a-bly.com) 에서
-- 안드로이드 엔지니어로 일하고 있어요!
+### 👨‍💻 저는 지금 [ModHaus](https://www.mod-haus.com/) 에서
+- 안드로이드 엔지니어 (겸사겸사 프론트앤드 엔지니어) 로 일하고 있어요!
 - 주는 [안드로이드](https://developers.android.com) 이고, 취미로 [iOS](https://developers.apple.com) 와, [Kotlin Native](https://kotlinlang.org/docs/native-overview.html) 도 종종 다룬답니다!
 
 ### 😘 하고싶은게 너무 많아서, 퇴근 후 평소 저는
